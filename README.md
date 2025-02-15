@@ -58,7 +58,7 @@
 </div>
 
 
-![Codewars](https://github.r2v.ch/codewars?user=darknesszxc&stroke=COLOR)
+![Codewars](https://github.r2v.ch/codewars?user=darknesszxc&stroke=%23BB432C)
 </br>
 </br>
 </br>
