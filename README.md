@@ -45,7 +45,7 @@
 </br>
 
  
-</br>
+
 
 ### Technologies and tools:
 
@@ -62,7 +62,6 @@
   <img width="12" />
 
 </div>
-
 
 </br>
 </br>
