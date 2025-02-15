@@ -29,6 +29,11 @@
 [![HeadHunter](https://img.shields.io/badge/HeadHunter-990000?style=for-the-badge&logo=hh.ru&logoColor=white)](https://hh.ru/resume/7e5f8b19ff0d9731510039ed1f7a4a46484a6f)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darknesszxc)
 
+| Технологии | Контакты |
+|------------|----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" /> | [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/darknesszxc) [![HeadHunter](https://img.shields.io/badge/HeadHunter-990000?style=for-the-badge&logo=hh.ru&logoColor=white)](https://hh.ru/resume/7e5f8b19ff0d9731510039ed1f7a4a46484a6f) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darknesszxc) |
+
+
 ---
 # About ME 💬 :
 
