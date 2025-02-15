@@ -72,7 +72,7 @@
 
 ### - All projects are available on gh-pages for viewing.
 
-<img hight="500" width="350" alt="GIF" align="right" src="https://i.pinimg.com/originals/cc/fb/2d/ccfb2d3127798e85c8f889167d59d336.gif">
+
 
 <img hight="500" width="350" alt="GIF" align="right" src="https://i.pinimg.com/736x/b4/1f/06/b41f064d8224adc54134408638d08f49.jpg">
 
