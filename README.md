@@ -6,6 +6,10 @@
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600">
 </p>
 
+<p align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/2506892769646639779/1031773A15EB95CA94189B5673B844563A696413/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+</p>
+
 ---
 
 ### 🚀 О себе:
