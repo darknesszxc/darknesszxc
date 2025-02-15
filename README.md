@@ -1,5 +1,4 @@
-## Привет 👋 Меня зовут михаил Михаил !
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi👋%2C+everyone!+I'm+Misha.;Welcome+to+my+Github+profile!+)]
 <p align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600">
 </p>
@@ -9,7 +8,7 @@
 </p>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi👋%2C+everyone!+I'm+Misha.;Welcome+to+my+Github+profile!+)]
+
 
 <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
 
