@@ -44,9 +44,6 @@
 
 </br>
 
-### - Also in my spare time I solve tasks on Codewars and pump up my skills.
-
-![Codewars](https://github.r2v.ch/codewars?user=darknesszxc&stroke=%23BB432C&theme=gradient_midnight_puple_by_level)
  
 </br>
 
@@ -100,6 +97,11 @@
     </tr>
   </table>
 </p>
+
+
+### - Also in my spare time I solve tasks on Codewars and pump up my skills.
+
+![Codewars](https://github.r2v.ch/codewars?user=darknesszxc&stroke=%23BB432C&theme=gradient_midnight_puple_by_level)
 
 
 
