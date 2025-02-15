@@ -63,11 +63,43 @@
 </br>
 </br>
 
+---
 
+# Pet-project 💻 :
+
+### - All projects are available on gh-pages for viewing.
+
+<p align="center">
+  <table>
+    <tr>
+      <th>Проект</th>
+      <th>Ссылка на проект</th>
+      <th>Деплой</th>
+    </tr>
+    <tr>
+      <td>Landing Page (Responsive Layout)</td>
+      <td><a href="https://github.com/darknesszxc/landing-page">Проект на GitHub</a></td>
+      <td><a href="https://darknesszxc.github.io/landing-page/">Деплой</a></td>
+    </tr>
+    <tr>
+      <td>Card Game</td>
+      <td><a href="https://github.com/darknesszxc/cards-game">Проект на GitHub</a></td>
+      <td><a href="https://darknesszxc.github.io/cards-game/">Деплой</a></td>
+    </tr>
+    <tr>
+      <td>Weather App</td>
+      <td><a href="https://github.com/darknesszxc/WeatherApp">Проект на GitHub</a></td>
+      <td><a href="https://darknesszxc.github.io/WeatherApp/">Деплой</a></td>
+    </tr>
+  </table>
+</p>
 
 
 
 ---
+
+
+
 
 ### 📊 Статистика GitHub:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darknesszxc&theme=radical)
