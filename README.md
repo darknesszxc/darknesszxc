@@ -74,7 +74,7 @@
 
 
 
-<img hight="500" width="350" alt="GIF" align="right" src="https://i.pinimg.com/736x/b4/1f/06/b41f064d8224adc54134408638d08f49.jpg">
+<img hight="500" width="300" alt="GIF" align="right" src="https://i.pinimg.com/736x/b4/1f/06/b41f064d8224adc54134408638d08f49.jpg">
 
 
 <p align="left">
