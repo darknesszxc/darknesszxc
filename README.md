@@ -64,8 +64,6 @@
 </div>
 
 
-</br>
-
 ---
 
 # Pet-project 💻 :
@@ -117,7 +115,6 @@
 
 
 ### 📊 Статистика GitHub:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darknesszxc&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darknesszxc&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darknesszxc&layout=compact&theme=radical)
 
