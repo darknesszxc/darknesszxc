@@ -1,7 +1,7 @@
-
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi👋%2C+everyone!+I'm+Michael.;Welcome+to+my+Github+profile!+)
 
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi👋%2C+everyone!+I'm+Michael.;Welcome+to+my+Github+profile!+)
+ 
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600">
 </p>
 
