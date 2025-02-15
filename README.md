@@ -31,9 +31,10 @@
     <a href="https://hh.ru/resume/7e5f8b19ff0d9731510039ed1f7a4a46484a6f" target="_blank"><img src="https://img.shields.io/badge/HeadHunter-990000?style=for-the-badge&logo=hh.ru&logoColor=white" /></a>
     <a href="https://github.com/darknesszxc" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </div>
+  
 </div>
 
----
+
 
 
 ---
