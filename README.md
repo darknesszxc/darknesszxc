@@ -4,13 +4,12 @@
 </p>
 
 <p align="right">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/2506892769646639779/1031773A15EB95CA94189B5673B844563A696413/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true width="400"">
+  <img src="https://walls.storage.clo.ru/wallake/files/2022-07/1658798515_99ff262dd6da5a900eae2dc06a21a54a_orig.mp4" width="400"">
 </p>
 
 
 
 
-<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
