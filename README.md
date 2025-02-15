@@ -13,7 +13,7 @@
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
- ### Technologies and tools:
+
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
     <img width="12" />
@@ -27,7 +27,7 @@
   </div>
 
   <div>
-   ### 🌍 Contact:
+ 
     <a href="https://t.me/darknesszxc" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a href="https://hh.ru/resume/7e5f8b19ff0d9731510039ed1f7a4a46484a6f" target="_blank"><img src="https://img.shields.io/badge/HeadHunter-990000?style=for-the-badge&logo=hh.ru&logoColor=white" /></a>
     <a href="https://github.com/darknesszxc" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
