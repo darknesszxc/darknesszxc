@@ -1,4 +1,4 @@
-## Привет, меня зовут михаил Михаил 👋
+## Привет 👋 Меня зовут михаил Михаил !
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=33CC99&width=435&lines=Фронтенд+разработчик;React+%7C+JavaScript+%7C+CSS+%7C+HTML;Увлекаюсь+UI%2FUX+дизайном)
 ![Описание гифки](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
