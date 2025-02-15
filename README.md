@@ -102,8 +102,6 @@
   </table>
 </p>
 
-</br>
-
 
 ### - Also in my spare time I solve tasks on Codewars and pump up my skills.
 
