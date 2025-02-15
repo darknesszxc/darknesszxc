@@ -10,7 +10,7 @@
 
 
 
-### Technologies and tools:
+## Technologies and tools:
 
 <div align="left" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -32,10 +32,10 @@
 
 <img hight="400" width="300" alt="GIF" align="right" src="https://i.pinimg.com/736x/ff/d6/8a/ffd68a8dcfe161385f57e1d39a9ea94b.jpg">
 
-- 🎨 Фронтенд-разработчик, создаю интерактивные веб-приложения.
-- 💻 Владею HTML, CSS, JavaScript, React, Tailwind CSS.
-- 🌱 Сейчас изучаю TypeScript и углубляюсь в JavaScript.
-- ⚡ Люблю решать задачи и оптимизировать интерфейсы.
+## - 🎨 Фронтенд-разработчик, создаю интерактивные веб-приложения.
+## - 💻 Владею HTML, CSS, JavaScript, React, Tailwind CSS.
+## - 🌱 Сейчас изучаю TypeScript и углубляюсь в JavaScript.
+## - ⚡ Люблю решать задачи и оптимизировать интерфейсы.
 
 </br>
 </br>
