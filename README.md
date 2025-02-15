@@ -58,7 +58,7 @@
 </div>
 
 
-![Codewars](https://github.r2v.ch/codewars?user=darknesszxc&stroke=%23BB432C&theme=gradient_purple_dark_by_level)
+![Codewars](https://github.r2v.ch/codewars?user=darknesszxc&stroke=%23BB432C&theme=gradient_purple_light)
 </br>
 </br>
 </br>
