@@ -72,9 +72,9 @@
 <p align="center">
   <table>
     <tr>
-      <th>Проект</th>
-      <th>Ссылка на проект</th>
-      <th>Деплой</th>
+      <th>Name Project</th>
+      <th>Link Project</th>
+      <th>Deploy</th>
     </tr>
     <tr>
       <td>Landing Page (Responsive Layout)</td>
