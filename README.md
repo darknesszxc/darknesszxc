@@ -4,7 +4,7 @@
 </p>
 
 <p align="right">
-  <img src="https://walls.storage.clo.ru/wallake/files/2022-07/1658798515_99ff262dd6da5a900eae2dc06a21a54a_orig.gif" width="400"">
+  <img src="https://i.pinimg.com/736x/ff/d6/8a/ffd68a8dcfe161385f57e1d39a9ea94b.jpg" width="400"">
 </p>
 
 
