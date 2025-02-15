@@ -33,10 +33,23 @@
 ### - I'm 21 years old, a novice FrontEnd developer from Crimea.
 <img hight="400" width="300" alt="GIF" align="right" src="https://i.pinimg.com/736x/ff/d6/8a/ffd68a8dcfe161385f57e1d39a9ea94b.jpg">
 
-### - 🎨 Фронтенд-разработчик, создаю интерактивные веб-приложения.
-### - 💻 Владею HTML, CSS, JavaScript, React, Tailwind CSS.
-### - 🌱 Сейчас изучаю TypeScript и углубляюсь в JavaScript.
-### - ⚡ Люблю решать задачи и оптимизировать интерфейсы.
+
+### - Learning :
+
+- 🎨 Frontend developer, create interactive web applications.
+- 💻 I know HTML, CSS, JavaScript, React, Tailwind CSS.
+- 🌱 Currently learning TypeScript and delving into JavaScript.
+- ⚡ I love solving problems and optimizing interfaces.
+
+
+### - Hobbies : 
+- ✨ Gaming 
+- ✨ Watching аnime
+- ✨ Walking аlone 
+- ✨ Play basketball
+
+
+
 
 </br>
 </br>
