@@ -34,7 +34,7 @@
 
 
 
-<img hight="400" width="400" alt="GIF" align="right" src="https://i.pinimg.com/736x/ff/d6/8a/ffd68a8dcfe161385f57e1d39a9ea94b.jpg">
+<img hight="350" width="400" alt="GIF" align="right" src="https://i.pinimg.com/736x/ff/d6/8a/ffd68a8dcfe161385f57e1d39a9ea94b.jpg">
 
 
 ### - Learning :
