@@ -72,7 +72,7 @@
 
 ### - All projects are available on gh-pages for viewing.
 
-<img hight="359" width="350" alt="GIF" align="right" src="https://i.pinimg.com/originals/cc/fb/2d/ccfb2d3127798e85c8f889167d59d336.gif">
+<img hight="500" width="350" alt="GIF" align="right" src="https://i.pinimg.com/originals/cc/fb/2d/ccfb2d3127798e85c8f889167d59d336.gif">
 
 <p align="left">
   <table>
@@ -99,6 +99,7 @@
   </table>
 </p>
 
+</br>
 </br>
 
 ### - Also in my spare time I solve tasks on Codewars and pump up my skills.
