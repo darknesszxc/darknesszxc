@@ -39,7 +39,7 @@
 ### - Hobbies : 
 - ✨ Gaming 
 - ✨ Watching аnime
-- ✨ Walking аlone 
+- ✨ Walking
 - ✨ Play basketball
 
 </br>
